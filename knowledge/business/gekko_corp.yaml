@@ -1,0 +1,42 @@
+version: 2
+domain: business
+created_by: Yaser-Al-Hameedi
+task_description: |
+  Teach the model what Gekko Corporation is and its primary business operations.
+
+seed_examples:
+  - question: "What is Gekko Corporation?"
+    answer: |
+      Gekko Corporation is a Value-Added Reseller company specializing in selling and
+      implementing Splunk software. Splunk helps businesses analyze machine-generated
+      big data for IT operations, security, business analytics, and IoT.
+
+  - question: "What services does Gekko Corporation provide?"
+    answer: |
+      Gekko Corporation provides services related to IT operations, security, business
+      analysis, and the Internet of Things (IoT). Their focus is on helping businesses
+      unlock insights from large data sets using Splunk software.
+
+  - question: "Who are some of Gekko Corporation's clients?"
+    answer: |
+      Gekko Corporation has worked with notable clients such as Costco, NPR, and Comcast.
+      These companies use Gekko's expertise in Splunk implementation for data analysis
+      and operational efficiency.
+
+  - question: "What is Gekko Corporation's business model?"
+    answer: |
+      Gekko operates as a Value-Added Reseller, meaning they sell and implement Splunk
+      software while also providing additional services such as consulting, integration,
+      and support to maximize the software's value.
+
+  - question: "How does Gekko Corporation help businesses?"
+    answer: |
+      Gekko helps businesses by enabling them to analyze and interpret machine-generated
+      data efficiently. This supports better decision-making, enhances cybersecurity,
+      optimizes IT operations, and improves overall business performance.
+
+document:
+  repo: https://github.com/Yaser-Al-Hameedi/knowledge_contributions
+  commit: 5fa92dd
+  patterns:
+    - gekko_corp.md
