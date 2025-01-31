@@ -54,7 +54,7 @@ seed_examples:
       ensures businesses can optimize IT security and operational efficiency.
 
 document:
-  repo: https://github.com/Yaser-Al-Hameedi/knowledge_contributions
-  commit: 150fcbd
+  repo: https://github.com/Yaser-Al-Hameedi/taxonomy.git
+  commit: 9fa8508
   patterns:
-    - gekko_corp.md
+    - knowledge/business/gekko_corp.md
