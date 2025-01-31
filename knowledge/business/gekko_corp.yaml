@@ -55,6 +55,6 @@ seed_examples:
 
 document:
   repo: https://github.com/Yaser-Al-Hameedi/knowledge_contributions
-  commit: <LATEST_COMMIT_HASH>
+  commit: bff5347
   patterns:
     - gekko_corp.md
